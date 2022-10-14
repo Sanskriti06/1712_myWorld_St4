@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "firstname": "sonakshi",
+      "lastname": "saini",
+      "email": "sonakshi@gmail.com",
+      "username": "sonakshi",
+      "id": 7
+    },
+    {
+      "firstname": "shreya",
+      "lastname": "gfhf",
+      "email": "dfxg@gmail.com",
+      "username": "uhefnh",
+      "id": 9
+    },
+    {
+      "firstname": "Nandini",
+      "lastname": "sharma",
+      "email": "ns@gmail.com",
+      "username": "nsga",
+      "id": 10
+    },
+    {
+      "firstname": "Sanskriti",
+      "lastname": "Vashisht",
+      "email": "sans@abc.com",
+      "username": "Sansu",
+      "id": 11
+    },
+    {
+      "firstname": "Sahil",
+      "lastname": "Yadav",
+      "email": "sy@ss.com",
+      "username": "sahil",
+      "id": 12
+    },
+    {
+      "firstname": "aruna",
+      "lastname": "sharma",
+      "email": "arunasharma@abc.com",
+      "username": "aruna",
+      "id": 13
+    },
+    {
+      "firstname": "Hermione",
+      "lastname": "Granger",
+      "email": "hermione@gryffindor.com",
+      "username": "HG",
+      "id": 14
+    },
+    {
+      "firstname": "kartik",
+      "lastname": "sharma",
+      "email": "kartiks@v.com",
+      "username": "kartik",
+      "id": 15
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "username": "",
+      "id": 16
+    },
+    {
+      "firstname": "abc",
+      "lastname": "abc",
+      "email": "abc@abc.com",
+      "username": "abc",
+      "id": 17
+    }
+  ]
+}

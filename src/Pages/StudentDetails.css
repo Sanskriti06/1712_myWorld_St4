@@ -1,0 +1,31 @@
+.container2{
+    height: 95vh;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.frm{
+    margin: 10px;
+    margin-left: 240px;
+    margin-right: 240px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    
+    
+}
+.signlabel{
+    font-size: 18px;
+    font-weight: 24px;
+}
+.rowww{
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 23vw;
+    /* padding: 10px; */
+}
+#btttn{
+    width: 30%;
+}
